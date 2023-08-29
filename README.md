@@ -5,8 +5,8 @@
 </p>
 
 
-## New features
-+ Multi-task
+## Our new features
++ Decoupled Multi-tasking in the mmsegmentation Framework
 + Automatically logged data (by Wandb)
 
 
